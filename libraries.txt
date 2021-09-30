@@ -1,0 +1,13 @@
+import pyttsx3 #This module helps us to recognize the voice command given by the user and then translates into machine level understanding language and further into text
+import speech_recognition as sr #This module helps the machine microphne to record and stimulate the input voice commands given by the user
+import datetime #This module helps to give the current date and time of our locality
+import wikipedia #This module helps to search the results of the commands given by the user in wikipedia website
+import webbrowser #The webbrowser module provides a high-level interface to allow displaying Web-based documents to users. 
+import os #The OS module in Python provides functions for interacting with the operating system. OS comes under Python's standard utility modules. This module provides a portable way of using operating system-dependent functionality.
+import smtplib #Python provides smtplib module, which defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon. host − This is the host running your SMTP server. You can specify IP address of the host or a domain name like tutorialspoint.com. , whatsapp,fb, youtube, gmail
+import requests, json , sys #These are the prerequisites for the functioning of the weatherAPI and exiting the system
+import pyjokes #It stores various number of jokes of various kinds which are available in this python library
+import pywhatkit #IT DOES MULTITASKING AT ONE TIME takes many commands at a time
+from flask import Flask,render_template,redirect,request
+import warnings
+warnings.filterwarnings('ignore')
