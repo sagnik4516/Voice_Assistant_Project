@@ -88,7 +88,7 @@ To deploy this project on the local host server
 ```
 
   
-![Logo](https://github.com/sagnik4516/Task-/blob/master/Screenshot%20(46).png)
+
 
     
 ## Demo
